@@ -14,6 +14,4 @@ Here are the files in the website.
 
 Just something going on
 
-Now editing on update-readme branch
-
-Updated locally
+Updates made on master on GitHub before rebase
